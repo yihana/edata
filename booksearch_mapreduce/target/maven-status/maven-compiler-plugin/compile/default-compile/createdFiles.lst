@@ -1,0 +1,4 @@
+booksearch_mapreduce/JobHelper.class
+booksearch_mapreduce/BookSearchMapper.class
+booksearch_mapreduce/MongoJob.class
+booksearch_mapreduce/BookSearcherReducer.class
